@@ -1,5 +1,9 @@
 # LocalExile Launcher
 
+> **This repository is archived.** The launcher for LocalExile is now
+> [Waypoint](https://github.com/evrydayjunglist/Waypoint); new launcher work goes there. Existing releases stay
+> available, but this launcher gets no more updates.
+
 A Windows desktop launcher for a [LocalExile](https://github.com/LocalExile/LocalExile) server checkout: start, stop
 and restart the servers and the game client, watch the services and their performance, read every log, manage dev
 accounts and send the Gateway's chat commands with suggestions.
